@@ -1,0 +1,60 @@
+[submodule "DockerWordpress"]
+	path = DockerWordpress
+	url = https://github.com/igitras-docker/DockerWordpress.git
+[submodule "DockerTomcat"]
+	path = DockerTomcat
+	url = https://github.com/igitras-docker/DockerTomcat.git
+[submodule "DockerSpark"]
+	path = DockerSpark
+	url = https://github.com/igitras-docker/DockerSpark.git
+[submodule "DockerSmtp"]
+	path = DockerSmtp
+	url = https://github.com/igitras-docker/DockerSmtp.git
+[submodule "DockerRedis"]
+	path = DockerRedis
+	url = https://github.com/igitras-docker/DockerRedis.git
+[submodule "DockerPostgresql"]
+	path = DockerPostgresql
+	url = https://github.com/igitras-docker/DockerPostgresql.git
+[submodule "DockerPhpMyAdmin"]
+	path = DockerPhpMyAdmin
+	url = https://github.com/igitras-docker/DockerPhpMyAdmin.git
+[submodule "DockerMysql"]
+	path = DockerMysql
+	url = https://github.com/igitras-docker/DockerMysql.git
+[submodule "DockerMq"]
+	path = DockerMq
+	url = https://github.com/igitras-docker/DockerMq.git
+[submodule "DockerMongo"]
+	path = DockerMongo
+	url = https://github.com/igitras-docker/DockerMongo.git
+[submodule "DockerHudson"]
+	path = DockerHudson
+	url = https://github.com/igitras-docker/DockerHudson.git
+[submodule "DockerHadoop"]
+	path = DockerHadoop
+	url = https://github.com/igitras-docker/DockerHadoop.git
+[submodule "DockerRuby"]
+	path = DockerRuby
+	url = https://github.com/igitras-docker/DockerRuby.git
+[submodule "DockerNode"]
+	path = DockerNode
+	url = https://github.com/igitras-docker/DockerNode.git
+[submodule "DockerGo"]
+	path = DockerGo
+	url = https://github.com/igitras-docker/DockerGo.git
+[submodule "DockerJava"]
+	path = DockerJava
+	url = https://github.com/igitras-docker/DockerJava.git
+[submodule "DockerPhp"]
+	path = DockerPhp
+	url = https://github.com/igitras-docker/DockerPhp.git
+[submodule "DockerNginx"]
+	path = DockerNginx
+	url = https://github.com/igitras-docker/DockerNginx.git
+[submodule "DockerApache"]
+	path = DockerApache
+	url = https://github.com/igitras-docker/DockerApache.git
+[submodule "DockerPython"]
+	path = DockerPython
+	url = https://github.com/igitras-docker/DockerPython.git
